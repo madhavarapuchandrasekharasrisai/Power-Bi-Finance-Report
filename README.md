@@ -4,6 +4,7 @@ This repository contains an interactive financial report dashboard built using M
  
 Project Overview:
 This Power BI dashboard offers a comprehensive view of financial performance. It visualizes critical sales metrics, including total sales, cost of goods sold (COGS), profit margins, and average order values. The dashboard is designed to be interactive, allowing users to filter data dynamically by country 🌍, product 🛍️, discount band 🏷️, segment 👥, and date range 🗓️.
+https://github.com/madhavarapuchandrasekharasrisai/Power-Bi-Finance-Report/blob/main/SnapShot%20of%20Report
 
 Features ✨:
 Key Performance Indicators (KPIs): Prominent display of Total Sales 💰, Total COGS 📉, Total Margin 📈, Profit % ✅, and Average Order 🛒.
