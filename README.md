@@ -64,8 +64,6 @@ Microsoft Power BI Desktop: The primary tool used for data modeling, visualizati
 
 DAX (Data Analysis Expressions): Used for creating calculated columns, measures, and tables within the Power BI data model. ➕
 
-[Your Data Source Type]: e.g., CSV 📝, Excel 📊, SQL Server Database 🗄️, SharePoint List 🔗, etc.
-
 Getting Started 🚀
 Follow these steps to open and interact with the Power BI dashboard.
 
@@ -77,10 +75,9 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/[YourUsername]/[YourRepositoryName].git
-cd [YourRepositoryName]
+
 Open the Power BI file:
-Navigate to the cloned directory and open the [YourDashboardName].pbix file. This will automatically launch Power BI Desktop and load the dashboard. 📁
+Navigate to the cloned directory and open the [Power-Bi-Finance-Report].pbix file. This will automatically launch Power BI Desktop and load the dashboard. 📁
 
 Using the Dashboard 👨‍💻
 Review the KPIs: The top section of the dashboard provides an immediate overview of key financial metrics. 🎯
@@ -97,17 +94,4 @@ Explore Visuals: Hover over charts to see detailed tooltips. Some charts might s
 
 Refresh Data (if applicable): If the underlying data source is local and has been updated, you can click the "Refresh" button in the Home tab of Power BI Desktop to load the latest data. 🔄
 
-Data Source 📂
-The dashboard's data is sourced from [Describe your data source, e.g., 'a CSV file named 'financial_data.csv' located in the data/ folder', 'an Excel workbook named 'SalesData.xlsx'', 'a SQL Server database (connection configured within the .pbix file)'].
-
 The Power Query steps within the .pbix file detail how the data is transformed and loaded.  ETL ✨
-
-Folder Structure 🗂️
-.
-├── [YourDashboardName].pbix
-├── data/
-│   └── [your_data_file.csv/xlsx/etc] (Optional: if you include the data file)
-└── README.md
-Contact 📧
-[Your Name/Organization Name] - [Your Email Address]
-Project Link: [suspicious link removed][YourUsername]/[YourRepositoryName]
